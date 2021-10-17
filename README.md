@@ -53,10 +53,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://www.linkedin.com/in/juan-alvarez-carrasco-55a36b117//"><img src="https://img.shields.io/badge/-Ehsan%20Seyedi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:juan.alvarezz.11@gmail.com"><img src="https://img.shields.io/badge/-hi@ehcan.ir-black?style=flat&logo=maildotru&logoColor=white"/></a>
 
 <!--
 **vaderrama/vaderrama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
